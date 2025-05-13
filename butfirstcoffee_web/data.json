@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "name": "Espresso",
+      "description": "A concentrated coffee brewed by forcing hot water under pressure through finely-ground coffee beans.",
+      "price": 3.50,
+      "category": "espresso",
+      "image": "images/espresso.jpg",
+      "tags": ["Strong", "Classic"]
+    },
+    {
+      "id": 2,
+      "name": "Cappuccino",
+      "description": "Equal parts espresso, steamed milk, and milk foam for a perfect balance of flavors.",
+      "price": 4.50,
+      "category": "espresso",
+      "image": "images/cappuccino.jpg",
+      "tags": ["Creamy", "Popular"]
+    },
+    {
+      "id": 3,
+      "name": "Latte",
+      "description": "Espresso with steamed milk and a light layer of foam, creating a smooth and creamy coffee experience.",
+      "price": 4.75,
+      "category": "espresso",
+      "image": "images/latte.jpg",
+      "tags": ["Smooth", "Milky"]
+    },
+    {
+      "id": 4,
+      "name": "Mocha",
+      "description": "A chocolate lover's dream with espresso, steamed milk, and chocolate syrup, topped with whipped cream.",
+      "price": 5.25,
+      "category": "specialty",
+      "image": "images/mocha.jpg",
+      "tags": ["Chocolate", "Sweet"]
+    },
+    {
+      "id": 5,
+      "name": "Cold Brew",
+      "description": "Coffee grounds steeped in cold water for 12+ hours, creating a smooth, less acidic coffee experience.",
+      "price": 4.95,
+      "category": "cold",
+      "image": "images/cold-brew.jpg",
+      "tags": ["Smooth", "Refreshing"]
+    },
+    {
+      "id": 6,
+      "name": "Iced Latte",
+      "description": "Chilled espresso with cold milk and ice for a refreshing coffee treat.",
+      "price": 5.00,
+      "category": "cold",
+      "image": "images/iced-latte.jpg",
+      "tags": ["Refreshing", "Creamy"]
+    },
+    {
+      "id": 7,
+      "name": "Caramel Macchiato",
+      "description": "Vanilla-flavored milk marked with espresso and topped with caramel drizzle.",
+      "price": 5.50,
+      "category": "specialty",
+      "image": "images/caramel-macchiato.jpg",
+      "tags": ["Sweet", "Caramel"]
+    },
+    {
+      "id": 8,
+      "name": "Americano",
+      "description": "Espresso diluted with hot water, similar strength to regular coffee but with a different flavor profile.",
+      "price": 3.75,
+      "category": "espresso",
+      "image": "images/americano.jpg",
+      "tags": ["Classic", "Simple"]
+    },
+    {
+      "id": 9,
+      "name": "Affogato",
+      "description": "A scoop of vanilla ice cream 'drowned' with a shot of hot espresso.",
+      "price": 5.95,
+      "category": "specialty",
+      "image": "images/affogato.jpg",
+      "tags": ["Dessert", "Italian"]
+    }
+  ]
